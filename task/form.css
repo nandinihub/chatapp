@@ -1,0 +1,18 @@
+.body{
+    background-color: rgb(250, 249, 168);
+    margin-left: 40%;
+    margin-top: 10%;
+    margin-right: 44%;
+    padding-top : 30px;
+    padding-left : 30px;
+    padding-right : 33px;
+    padding-bottom : 30px;
+    border:4px rgb(185, 83, 253) solid;
+    border-radius: 0.2cm;
+    box-shadow: 10px 10px 10px rgb(224, 223, 155);
+
+}
+
+.button{
+    text-align: center;
+}
